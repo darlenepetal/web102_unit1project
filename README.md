@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/OW2D9tD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/g06S1Js.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [File Converter](https://file-converter.io/)
 
@@ -47,7 +47,7 @@ GIF created with [File Converter](https://file-converter.io/)
 
 ## License
 
-    Copyright [2026] [Noah Garthwaite]
+    Copyright [2026] [Dahlia Garthwaite]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
